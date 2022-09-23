@@ -1,0 +1,14 @@
+body {
+  color: aliceblue;
+background-image:  url('./components/Img/bts.jpg');  
+height: 100vh;
+background-repeat: no-repeat;
+max-width: 90px;
+overflow: hidden;
+  background-size: 100%;
+}
+  
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

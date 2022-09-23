@@ -1,0 +1,58 @@
+header {
+    width: 100vw;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.logo {
+    margin-left: 20px;
+    padding-top: 50px;
+
+}
+
+.menu ul li {
+    margin-left: 30px;
+    list-style-type: none;
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    display: flex;
+    display: inline-block;
+}
+
+.texto {
+    color: brown
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: rgb (255, 255, 255);
+
+}
+
+.form {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 75px;
+}
+
+#pedido {
+    text-decoration: none;
+}
+#home,#servico, #contato{
+    text-decoration: none;
+    color: black;
+}

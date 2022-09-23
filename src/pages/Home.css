@@ -1,0 +1,11 @@
+h1{
+
+    width: 400px;
+
+}
+.main {
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    flex-direction: column;
+}
